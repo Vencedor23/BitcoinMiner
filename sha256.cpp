@@ -1,4 +1,4 @@
-#include <cstdint>
+ #include <cstdint>
 #include <iostream>
 
 uint32_t rotateInt(uint32_t inputWord, int numberOfBitsToRotate) 
